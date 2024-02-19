@@ -1,5 +1,5 @@
 # MidMed
 MidMed: Towards Mixed-Type Dialogues for Medical Consultation
 
-There are totally 5,355 samples in MidMed_v1.json. 
-The rest 2,820 are of low quality and are currently being post-processed, which will be open source soon.
+There are totally 5,355 samples in MidMed_v1.json, which contain specific goals. 
+Besides, there are totally 2,820 in MidMed_no_goal.json, which not cotain specific goals.
